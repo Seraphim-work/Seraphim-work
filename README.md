@@ -1,16 +1,31 @@
-## Hi there 👋
+## Привет, я Seraphim!
+## Студент ITMO University, изучаю программирование и разработку программного обеспечения.
 
-<!--
-**Seraphim-work/Seraphim-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Что изучаю:
+- C
+- C++
+- Git & GitHub
+- Алгоритмы и структуры данных
+- Линейную алгебру
+- Математический анализ
 
-Here are some ideas to get you started:
+|---|🚀 Мои проекты|---|
+| ----------- | ----------- |
+| Проект | Описание | Технологии |
+| FitPlanGeneratorV2 | Генератор тренировочных планов | Python |
+| itmo_tools_2026	 | Учебные лабораторные работы | Python, Git |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> 💡 «Каждая ошибка — это ещё один шаг к пониманию того, как всё работает.»
+
+```python
+print(Hello World!!!)
+```
+
+📊 Моя статистика
+Навык	Статус
+🐍 Python	Изучаю
+🔀 Git & GitHub	Использую
+🧮 Algorithms	Изучаю
+📐 Mathematics	Изучаю
+⭐ Цель: становиться лучше в программировании и создава
